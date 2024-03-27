@@ -12,4 +12,4 @@ This app manages wallets.
   - Responsible for testing each endpoint
 
 - **Riantsoa**:
-  - Developer
+  - Developer frontend
