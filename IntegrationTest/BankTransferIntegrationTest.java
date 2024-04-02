@@ -70,3 +70,7 @@ public class BankTransferIntegrationTest {
         assertEquals(200, response.getStatus());
     }
 }
+
+
+// CE TEST EST POUR TESTER EN GLOBAL LES CLASSES SI Y EN AVAIT, HELAS
+
