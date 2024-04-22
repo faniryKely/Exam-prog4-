@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/migration/SqlFunction/create_table_account.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migration/SqlFunction/create_table_credit.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migration/SqlFunction/create_table_transaction.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/migration/SqlFunction/create_table_transfer.sql" dialect="PostgreSQL" />
+  </component>
+</project>
