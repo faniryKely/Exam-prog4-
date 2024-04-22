@@ -1,5 +1,4 @@
 This app manages wallets.
-
 ## Developers and Responsibilities
 
 - **Manoa Lahatra**:
